@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <path d="M128 20L40 60v60c0 55 40 100 88 116 48-16 88-61 88-116V60L128 20z" fill="#0A1628"/>
+  <path d="M128 35L55 70v50c0 48 35 88 73 102 38-14 73-54 73-102V70L128 35z" fill="#0A1628" stroke="#00D4FF" stroke-width="2"/>
+  <circle cx="128" cy="100" r="6" fill="#00D4FF"/>
+  <circle cx="100" cy="120" r="4" fill="#00D4FF"/>
+  <circle cx="156" cy="120" r="4" fill="#00D4FF"/>
+  <circle cx="128" cy="150" r="4" fill="#00D4FF"/>
+  <circle cx="90" cy="145" r="3" fill="#00D4FF"/>
+  <circle cx="166" cy="145" r="3" fill="#00D4FF"/>
+  <line x1="128" y1="100" x2="100" y2="120" stroke="#00D4FF" stroke-width="2"/>
+  <line x1="128" y1="100" x2="156" y2="120" stroke="#00D4FF" stroke-width="2"/>
+  <line x1="100" y1="120" x2="90" y2="145" stroke="#00D4FF" stroke-width="1.5"/>
+  <line x1="156" y1="120" x2="166" y2="145" stroke="#00D4FF" stroke-width="1.5"/>
+  <line x1="100" y1="120" x2="128" y2="150" stroke="#00D4FF" stroke-width="2"/>
+  <line x1="156" y1="120" x2="128" y2="150" stroke="#00D4FF" stroke-width="2"/>
+  <line x1="128" y1="100" x2="128" y2="80" stroke="#00D4FF" stroke-width="1.5"/>
+  <line x1="128" y1="150" x2="128" y2="170" stroke="#00D4FF" stroke-width="1.5"/>
+</svg>
